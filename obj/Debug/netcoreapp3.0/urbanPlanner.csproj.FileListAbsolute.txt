@@ -1,0 +1,11 @@
+C:\Users\marla\workspace\c#\practice\urbanPlanner\bin\Debug\netcoreapp3.0\urbanPlanner.exe
+C:\Users\marla\workspace\c#\practice\urbanPlanner\bin\Debug\netcoreapp3.0\urbanPlanner.deps.json
+C:\Users\marla\workspace\c#\practice\urbanPlanner\bin\Debug\netcoreapp3.0\urbanPlanner.runtimeconfig.json
+C:\Users\marla\workspace\c#\practice\urbanPlanner\bin\Debug\netcoreapp3.0\urbanPlanner.runtimeconfig.dev.json
+C:\Users\marla\workspace\c#\practice\urbanPlanner\bin\Debug\netcoreapp3.0\urbanPlanner.dll
+C:\Users\marla\workspace\c#\practice\urbanPlanner\bin\Debug\netcoreapp3.0\urbanPlanner.pdb
+C:\Users\marla\workspace\c#\practice\urbanPlanner\obj\Debug\netcoreapp3.0\urbanPlanner.csprojAssemblyReference.cache
+C:\Users\marla\workspace\c#\practice\urbanPlanner\obj\Debug\netcoreapp3.0\urbanPlanner.AssemblyInfoInputs.cache
+C:\Users\marla\workspace\c#\practice\urbanPlanner\obj\Debug\netcoreapp3.0\urbanPlanner.AssemblyInfo.cs
+C:\Users\marla\workspace\c#\practice\urbanPlanner\obj\Debug\netcoreapp3.0\urbanPlanner.dll
+C:\Users\marla\workspace\c#\practice\urbanPlanner\obj\Debug\netcoreapp3.0\urbanPlanner.pdb
